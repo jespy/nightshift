@@ -1,4 +1,4 @@
-# Chocolate Night Shift v0.41
+# Chocolate Night Shift v0.42
 
 Open `index.html` in any modern browser. No installation or internet connection is required.
 
@@ -26,7 +26,7 @@ Open `index.html` in any modern browser. No installation or internet connection 
 - Both animated enemies continuously use their movement cycles; their idle artwork is retained for future use but is not used during gameplay
 - Rejected Truffle and Gummy Misprint sprites render above the room-darkness and vignette effects for maximum visibility
 - Chris also renders above the room-darkness and vignette while his floor glow remains beneath the lighting effects
-- Rejected Truffle is 25% smaller than its original size and uses a matching collision radius
+- All mobs—including Rejected Truffles, Gummy Misprints, Ganache Blobs, and Bittersweet elites—are 30% smaller than their previous gameplay size with matching collision radii
 - Redesigned title screen uses smoky slate-blue, charcoal, cyan, and restrained amber industrial lighting instead of the previous brown palette
 - Health and Experience meters now use distinct labels, icons, dimensions, borders, fill patterns, colors, and live numeric values
 - Level-up and end-of-shift cards now match the cool slate-blue, charcoal, and cyan title-screen palette
