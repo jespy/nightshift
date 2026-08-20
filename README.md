@@ -1,4 +1,4 @@
-# Chocolate Night Shift v0.42
+# Chocolate Night Shift v0.51
 
 Open `index.html` in any modern browser. No installation or internet connection is required.
 
@@ -11,7 +11,23 @@ Open `index.html` in any modern browser. No installation or internet connection 
 - Collect cyan cocoa beans to level up
 - On level-up: press Left/Right to highlight, press Enter to select immediately, or deliberately hold Up for one second; a visible progress bar shows the hold and an Up key already held for movement must be released first
 - After an Up-hold upgrade selection, continued Up input is suppressed until the key is released; Chris moves upward only after a new press
-- Survive the three-minute prototype shift
+- Sweet and Bittersweet are three-minute shifts; Unsweetened Expert is an endless run that ends only when Health reaches zero
+- Distinct enemy roles: direct Truffles, flanking Gummies, puddle-dropping Ganache Blobs, and telegraphed ranged rejects
+- Expert anti-kiting pressure adds interceptors gradually when the player avoids combat
+- Warned floor hazards, rewarding containment events, and named mini-bosses every 3–5 minutes
+- Three-choice categorized upgrade system with weapon, movement, defense, and scoring paths
+- Ribbon Cyclone, Factory Sweep, and Tempered Barrier evolutions with visible requirements
+- Emergency Dash uses Space or Shift while moving and grants brief invulnerability
+- Health, magnet, speed, score, Perfect Batch, and boss-upgrade pickups
+- Expanded final report with damage, enemy types, chains, quotas, mini-bosses, best weapon, and personal best
+- Resettable local achievements, enemy records, cosmetic palettes, and challenge unlocks; no permanent stat boosts
+- Nine independently timed floor vents arranged evenly in a fixed 3×3 grid
+- Active steam vents damage nearby mobs as well as the player, allowing strategic environmental kills
+- Soft contact shadows beneath the player, all mob types, elites, ranged rejects, and mini-bosses
+- Illustrated How to Play legend explaining orange aging rings and purple elite rings
+- Six illustrated miniature factory-object pickup sprites with proximity labels and a timed Espresso Boost HUD indicator
+- Stacked pickup notifications keep simultaneous rewards readable, with an expanded illustrated power-up key in How to Play
+- Corrected pickup art: symmetrical magnet, upright approval stamp, visible segmented chocolate bar, and simplified industrial clipboard
 
 ## Included
 
@@ -30,8 +46,12 @@ Open `index.html` in any modern browser. No installation or internet connection 
 - Redesigned title screen uses smoky slate-blue, charcoal, cyan, and restrained amber industrial lighting instead of the previous brown palette
 - Health and Experience meters now use distinct labels, icons, dimensions, borders, fill patterns, colors, and live numeric values
 - Level-up and end-of-shift cards now match the cool slate-blue, charcoal, and cyan title-screen palette
-- Welcome screen offers Sweet (Easy) and Bittersweet (Hard), with Unsweetened (Expert) displayed as a locked Coming Soon option
+- Welcome screen offers Sweet (Easy), Bittersweet (Hard), and unlocked Unsweetened (Expert Endless)
 - Sweet preserves the original three-minute shift balance
+- Unsweetened counts upward from 0:00 and increases enemy health, speed, group size, elite frequency, and population limits as survival time rises
+- Unsweetened production quotas repeat every 30 seconds indefinitely, scale to a capped target, and continue rewarding active combat
+- Unsweetened ends only when Health reaches zero and awards a modest +25 endurance bonus per completed 30 seconds
+- Unsweetened D–S ratings require both score and survival time, culminating in S at 24,000 points and 8:00 survived
 - Bittersweet adds tougher and faster rejects, purple-ringed elite enemies, stronger contact damage, and a three-enemy final production rush
 - Bittersweet upgrade choices use controlled randomness: early weapon guarantees, offensive-option protection, owned-weapon weighting, and reduced immediate repeats
 - Bittersweet includes one upgrade reroll per shift
